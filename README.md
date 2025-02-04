@@ -1,4 +1,1 @@
 # DBT-AIRFLOW-SPARK-POSTGRES-MINIO
-
-
-# Aqui eu estou!
